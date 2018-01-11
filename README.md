@@ -1,10 +1,12 @@
-<h1><marquee> Hello-world! </marquee></h1>
-My name is Daene and I like to code.
-I've stumbled upon GitHub for a good reason.
-To become a master coder!
-And even use GitHub as my playground. Or my personal stash!
-Muhahahaha.
-Someday I'll be inserting the best codes in here!
+<h1> Hello-world!</h1>
+`My name is Daene and I like to code.`
+```I've stumbled upon GitHub for a good reason.
+To become a master coder!```
+*And even use GitHub as my playground. 
+*Or my personal stash!
 
-Love Daene
+*Muhahahaha.*
+#Someday I'll be inserting the best codes in here!
+
+*Love Daene*
 
