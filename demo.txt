@@ -2,3 +2,9 @@
 Hello. This is a demonstration of our joy of programming.
 I have indeed sent this through the Git version control system.
 Huzzah, we have passed!
+
+Houston. We have sent this little text file into space. And it has
+surely returned to the ground. Now. It's time to make it go back up
+to the clouds.
+
+Hit it Houston!
