@@ -1,4 +1,4 @@
-<h1> Hello-world!</h1>
+#Hello-world
 `My name is Daene and I like to code.`
 ```I've stumbled upon GitHub for a good reason.
 To become a master coder!```
@@ -6,7 +6,7 @@ To become a master coder!```
 *Or my personal stash!
 
 *Muhahahaha.*
-#Someday I'll be inserting the best codes in here!
+##Someday I'll be inserting the best codes in here!
 
 *Love Daene*
 
