@@ -1,2 +1,4 @@
 
 Hello. This is a demonstration of our joy of programming.
+I have indeed sent this through the Git version control system.
+Huzzah, we have passed!
