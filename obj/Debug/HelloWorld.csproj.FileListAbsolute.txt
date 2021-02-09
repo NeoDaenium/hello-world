@@ -1,0 +1,20 @@
+C:\Users\Neo\source\repos\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Neo\source\repos\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Neo\source\repos\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Neo\source\repos\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+C:\Users\Neo\source\repos\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Neo\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\Neo\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Neo\source\repos\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Projects\Hello World\hello-world\bin\Debug\HelloWorld.exe.config
+E:\Projects\Hello World\hello-world\bin\Debug\HelloWorld.exe
+E:\Projects\Hello World\hello-world\bin\Debug\HelloWorld.pdb
+E:\Projects\Hello World\hello-world\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\Projects\Hello World\hello-world\obj\Debug\HelloWorld.HelloWorld.resources
+E:\Projects\Hello World\hello-world\obj\Debug\HelloWorld.Properties.Resources.resources
+E:\Projects\Hello World\hello-world\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+E:\Projects\Hello World\hello-world\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Projects\Hello World\hello-world\obj\Debug\HelloWorld.exe
+E:\Projects\Hello World\hello-world\obj\Debug\HelloWorld.pdb
